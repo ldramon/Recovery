@@ -1,0 +1,23 @@
+Para la conexión a la aplicación se deben seguir los siguientes pasos en el orden que se muestran:
+
+FRONTEND
+
+1. 
+2. $ npm i bootstrap@5.2.0
+3. npm install -g @angular/cli
+4. $ ng config -g cli.warnings.versionMismatch false
+5. $ npm install
+6. $ ng serve --o
+
+BACKEND
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. nodemon start
+
+MONGODB COMPASS
+
+URI: mongodb+srv://grupo2:grupo2@cluster0.m2psu.mongodb.net/recoverydb?retryWrites=true&w=majority
